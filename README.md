@@ -4,7 +4,7 @@ Welcome to the **official unofficial** collection of Windows Command Line notes.
 
 This is where I document every useful, useless, and "wait, that actually worked?" command I've run in the belly of the beast known as `cmd.exe`.
 
-Whether you're debugging your network, flexing your admin rights, or just typing `tree` to feel something — this is your cheat sheet.
+Whether you're debugging your network, flexing your admin rights, or just typing `tree C:\ /F` to feel something — this is your cheat sheet.
 
 This is the book we're using here, old but with AI, I tried my best to update and leave out the old stuff.
 

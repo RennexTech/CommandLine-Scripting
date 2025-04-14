@@ -6,18 +6,15 @@ This is where I document every useful, useless, and "wait, that actually worked?
 
 Whether you're debugging your network, flexing your admin rights, or just typing `tree` to feel something — this is your cheat sheet.
 
+This is the book we're using here, old but with AI, I tried my best to update and leave out the old stuff.
+
+![image](https://github.com/user-attachments/assets/a26a62b7-1a0c-498b-9fb0-208b139c14f4)
+
 ---
 
 ## 📦 What's in the Box?
 
-This repo is like `dir` with `/b` turned off — full of noise, and that's the fun of it:
-
-- `basic-commands.md` – Hello, world. Goodbye, productivity.
-- `networking.md` – Ping, ipconfig, and other forms of digital crying.
-- `file-ops.md` – How to copy stuff without dragging it like a caveman.
-- `admin-stuff.md` – Where things break and UAC shows up.
-- `misc.md` – Commands I ran and forgot why, but they’re here just in case.
-- `errors-i-caused.md` – The dark corner with my regrets.
+This repo is like `dir` with `/b` - no noise.
 
 ---
 

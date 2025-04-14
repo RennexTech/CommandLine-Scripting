@@ -32,7 +32,7 @@ This repo is like `dir` with `/b` - no noise.
 - Windows (duh)
 - A keyboard
 - Occasional internet connection to Google why a command didn’t work
-- A backup plan for when things go horribly wrong (optional but recommended)
+- A backup plan for when things go horribly wrong (optional but I recommend some commands only run on a VM.)
 
 ---
 

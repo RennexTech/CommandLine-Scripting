@@ -57,5 +57,5 @@ Use at your own risk. I am not responsible for:
 
 ---
 
-> "With great `cmd` comes great power... and even greater typos." — Havoc, probably
+> "With great `cmd` comes great power... and even greater typos." — Enjoy your read!😙
 
